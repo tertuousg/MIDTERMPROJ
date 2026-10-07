@@ -18,3 +18,6 @@ Section: TC33
 - Transaction-safe sale recording with stock validation and automatic stock deduction
 - Sales history with product, customer, staff, quantity, total, and date
 - CSRF-protected forms, validated uploads, escaped output, migrations, seeder, and SQL export
+
+Username: admin
+Password: password123
