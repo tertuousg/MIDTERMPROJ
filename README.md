@@ -1,7 +1,9 @@
 # Complete Point-of-Sale System — CodeIgniter 4
 
 Student: Paul Terence Guadalupe  
-Section: TC23
+Student: Kendra Dave Vinoya
+Student: Andrea Nica Magnaye
+Section: TC33
 
 ## Features
 
